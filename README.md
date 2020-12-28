@@ -1,7 +1,7 @@
 # SampleRepo1
 Sample Repo to explain Git Process
 
-#Question Papper Table
+####Question Papper Table
 
 | Qno | Qid | Type | Question        | Options              | Answer      | Description                                                      |
 |-----|-----|------|-----------------|----------------------|-------------|------------------------------------------------------------------|
